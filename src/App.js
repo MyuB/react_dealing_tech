@@ -1,8 +1,8 @@
 import "./App.css";
-import EventPractice from "./EventPractice";
+import IterationSample from "./IterationSample";
 
 const App = () => {
-  return <EventPractice />;
+  return <IterationSample />;
 };
 
 export default App;
